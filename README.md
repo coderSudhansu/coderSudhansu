@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @coderSudhansu
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me patrasudhansu317@gmail.com
+-👋 Hi, I’m @coderSudhansu
+-👀 I’m passionate about Backend Development & Microservices
+-💼 I have 2+ years of experience as a Java Developer
+-🌱 Skilled in Java, Spring Boot, REST APIs, Microservices, Oracle & MongoDB
+-🚀 Worked on billing, payment processing & user management systems
+-📫 Reach me at patrasudhansu317@gmail.com
